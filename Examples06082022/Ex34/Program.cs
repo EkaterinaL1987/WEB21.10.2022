@@ -24,4 +24,5 @@
             }
             Console.WriteLine();
             Console.WriteLine("Количество четных элементов {0}, сумма четных элементов {1}", k, sum);
+            
 
