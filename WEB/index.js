@@ -6,7 +6,7 @@ alert("Результат: ${158+2}")
 function test()
 {
     var x = 1
-    if (tru)
+    if (true)
     {var x = 2
         console.log(x)
     }
